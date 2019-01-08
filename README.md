@@ -4,6 +4,9 @@ Simple voting application to deal with large amount of requests per second.
 
 Inspired by 1x1 voting duels like Big Brother Brasil and The Voice Battle. (Can be easily used for N candidates)
 
+# Post on Medium
+https://hackernoon.com/making-a-web-voting-app-handling-245-million-votes-with-0-12-e59d5ec6a030
+
 ## Deps
 - Docker Compose
 
